@@ -1,0 +1,20 @@
+CAPEX / OPEX
+
+
+CAPEX:
+	Despesas de capital
+		- O gasto inicial de dinheiro em infraestrutura física
+		- As despesas do CapEx tem um valor que se reduz com o tempo
+
+OPEX:
+	Despesas Operacionais
+		- Gastar com produtos e serviços conforme o necessário, pagamento conforme uso
+		- Seja cobrado imediatamente
+
+Modelo baseado em consumo:
+	Os provedores de serviços em nuvem operam em um modelo baseado em consumo, oque significa que os usuários finais pagam somente
+	pelos recursos usados.
+	
+	. Melhor previsão de custos
+	. São fornecidos preços para recursos e serviços individuais
+	. A cobrança é feita com base em uso real
