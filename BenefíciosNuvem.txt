@@ -1,0 +1,26 @@
+BENEFÍCIOS DA NUVEM:
+
+- Alta disponibilidade
+	Se um serviço fica indisponível você recebe um credito equivalente a inatividade do serviço contratado
+	Isso é determinado pelo SLA (Service Level Agreement) do contrato.
+	O contrato DEVE prestar aquilo que foi contratado seja ele 99%, 99.95%, 99.99% caso contrario o cliente e ressarcido
+	Caso o serviço não esteja sendo prestado ele está "Degradado"
+A alta disponibilidade se concentra em garantir a disp máxima, independente de interrupções ou eventos que possam ocorrer.
+
+
+- Escalabilidade e Elasticidade:
+	Escalabilidade:
+		Refere-se à capacidade de ajustar recursos para atender a demanda.
+		A capacidade de escalar significa que você poderá adicionar mais recursos para lidar melhor com o aumento da demanda
+		Outro benefício da escalabilidade é que não esta pagando além do necessário pelos serviços
+		Como a nuvem é um modelo baseado em consumo, você paga apenas pelo que usa.
+		Se a demanda cair, você poderá reduzir seus recursos e, assim, reduzir seus custos.
+		Com a escala vertical, se você estivesse desenvolvendo um aplicativo e precisasse de mais capacidade de processamento,
+		poderia escalar verticalmente para adicionar mais CPUs ou RAM à maquina virtual.
+	
+	Elasticidade:
+		Dimensionar ambientes baseados em req.
+		Com elasticidade, se você experimentasse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos
+		Por exemplo, você pode adicionar maquinas virtuais ou conteiners por meio da expansão
+		Da mesma forma, se houver uma queda significativa na demanda, os recursos implantados poderão ser reduzidos horizontalmente
+		
