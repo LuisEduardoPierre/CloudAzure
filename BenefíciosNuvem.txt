@@ -23,4 +23,24 @@ A alta disponibilidade se concentra em garantir a disp máxima, independente de 
 		Com elasticidade, se você experimentasse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos
 		Por exemplo, você pode adicionar maquinas virtuais ou conteiners por meio da expansão
 		Da mesma forma, se houver uma queda significativa na demanda, os recursos implantados poderão ser reduzidos horizontalmente
-		
+
+- Confiabilidade:
+	O acesso e confiável e resiliente, devido a descentralização
+	A nuvem permite recursos implantados em vários locais do mundo
+	Caso aconteça um evento catastrófico em uma região as outras não são afetadas
+	
+- Previsibilidade:
+	Permite que você avance com confiança seja no desempenho ou custo
+
+- Segurança:
+	É oferecido ferramentas de segurança que atendem as necessidades dos clientes mas, muitas dessas medidas de proteção devem ser
+	implantadas pelos mesmos.
+	Para ter acesso máximo de segurança a IaaS fornecerá recursos físicos mas permitira gerenciar recursos se SO e software incluindo manutenção
+	Se quiser a aplicação de patches e a manutenção sejam tratadas automaticamente as imp. de plataforma como serviço ou Software as a Service podem ser 
+	as melhores estratégias de nuvem.
+
+- Governança:
+	A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corp e fornece estratégias de 	mitigação
+	
+
+
